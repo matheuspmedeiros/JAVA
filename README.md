@@ -1,4 +1,4 @@
-Programa realizado na Tecnologia Java pelo aluno Matheus Medeiros da instituição Etec da Zona Leste.
+Programas realizados na Tecnologia Java pelo aluno Matheus Medeiros da instituição Etec da Zona Leste.
 
 Repositorio para consulta e estudo do nivel Tecnico
 
